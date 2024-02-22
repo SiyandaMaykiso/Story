@@ -1,1 +1,3 @@
 Command line, git exercises 
+
+This is the next exercise
